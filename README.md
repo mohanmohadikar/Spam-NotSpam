@@ -1,4 +1,4 @@
-# spam-mesaage-prediction-Flask
+# Spam-NotSpam
 <h3>deployed here</h3> https://spam-not-spam.herokuapp.com/
 
 Flask web app to predict whether sms / message is spam or not based on machine learning (NLP). <br>
